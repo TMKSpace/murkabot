@@ -1,0 +1,7 @@
+{
+    "target_interval": 300,
+    "save_interval": 600,
+    "timeout_interval": 2,
+    "max_online": 2,
+    "max_sessions": 3
+}
